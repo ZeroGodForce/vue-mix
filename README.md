@@ -25,6 +25,7 @@ $ npm install
 ```bash
 $ npm run build
 ```
+NOTE: If this fails to run correctly, it may be due to problems using `npm install` to install the dependencies.  In which case it may be necessary to run `yarn install` instead.
 
 **Start a dev server**
 ```bash
